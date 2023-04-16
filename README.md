@@ -34,6 +34,6 @@
 
 
 ### client side :-https://mellow-moonbeam-a459bf.netlify.app/ 
-### admin side :- https://fabulous-biscotti-99e4f3.netlify.app/
+### admin side :- https://dulcet-peony-bce7b7.netlify.app/
 ### Demo video :- https://drive.google.com/file/d/1uex9Ue9-cW3rHCsHcjxL0ozEX438jBFH/view
 
